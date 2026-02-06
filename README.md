@@ -43,6 +43,6 @@ The emphasis is on **data preparation, modeling, and analytical thinking**, not 
 
 This repository reflects hands-on learning with realistic data challenges and is intended as a **portfolio project** demonstrating end-to-end Power BI analysis.
 
-##Author
+## Author
 Mariam Turnesh
 Data Science, Analytics, and AI | Business Intelligence | Dashboard Design | LuxDevHQ 
